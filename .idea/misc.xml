@@ -10,6 +10,10 @@
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_login.xml" value="0.253125" />
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_main.xml" value="0.253125" />
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_sign_up.xml" value="0.253125" />
+<<<<<<< HEAD
+=======
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_change_password.xml" value="0.20778110303548525" />
+>>>>>>> 258b8da (Initial commit)
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_dashboard.xml" value="0.20778110303548525" />
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_dev.xml" value="0.237045203969129" />
         <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_edit_profile.xml" value="0.19623770842240273" />
