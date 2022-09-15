@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/drawable/ic_round_lock_reset_24.xml" value="0.223" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/font/baloo_bhai.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_dashboard.xml" value="0.20778110303548525" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_login.xml" value="0.253125" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/activity_sign_up.xml" value="0.253125" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_dashboard.xml" value="0.20778110303548525" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_dev.xml" value="0.237045203969129" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_edit_profile.xml" value="0.19623770842240273" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/layout/fragment_reset_password.xml" value="0.20778110303548525" />
+        <entry key="..\:/Users/acpsi/AndroidStudioProjects/OfflineLoginRegister/app/src/main/res/menu/side_nav_menu.xml" value="0.19262782401902498" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

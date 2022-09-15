@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Offline Login Register</string>
+
+
+    <!--    My Strings-->
+    <string name="confirm_password_error">Password Doesn\'t Match</string>
+    <string name="fill_this_also">Fill this also</string>
+
+
+    <!--    SharedPreferences Keys-->
+    <string name="LOGIN_SP_STR">LOGIN_SHARED_PREFERENCES_STR</string>
+    <string name="USER_NAME_STR">USER_NAME_STR</string>
+    <string name="PASSWORD_STR">PASSWORD_STR</string>
+    <string name="FIRST_NAME_STR">FIRST_NAME_STR</string>
+    <string name="LAST_NAME_STR">LAST_NAME_STR</string>
+    <string name="EMAIL_STR">EMAIL_STR</string>
+
+
+    <string name="THEME_TOGGLE_SP_STR">THEME_TOGGLE_SHARED_PREFERENCES_STR</string>
+    <string name="THEME_STATE_STR">THEME_STATE_STR</string>
+
+
+    <string name="FRAGMENT_SP_STR">FRAGMENT_SHARED_PREFERENCES_STR</string>
+    <string name="CURRENT_FRAGMENT_STR">CURRENT_FRAGMENT_STR</string>
+    <string name="HOME_FRAGMENT_STR">HOME_FRAGMENT_STR</string>
+    <string name="EDIT_PROFILE_FRAGMENT_STR">EDIT_PROFILE_FRAGMENT_STR</string>
+    <string name="RESET_PASS_FRAGMENT_STR">RESET_PASS_FRAGMENT_STR</string>
+    <string name="CONTACT_DEV_FRAGMENT_STR">CONTACT_DEV_FRAGMENT_STR</string>
+
+
+</resources>
